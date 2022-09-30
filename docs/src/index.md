@@ -1,4 +1,4 @@
-# TestImages.jl
+# SpatialTestData.jl
 
 This package provides a convenient Julia interface for loading
 [standard named test images](https://en.wikipedia.org/wiki/Standard_test_image) and example images for the internal usage in JuliaImages.
