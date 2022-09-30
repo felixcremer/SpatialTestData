@@ -47,7 +47,7 @@ function full_imagename(filename)
         startswith(x, filename)
     end
     if idx === nothing
-        warn_msg = "\"$filename\" not found in `TestImages.remotefiles`."
+        warn_msg = "\"$filename\" not found in `SpatialTestData.remotefiles`."
 
         best_match = _findnearest(filename)
         if isnothing(best_match[2])
