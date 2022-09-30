@@ -6,7 +6,13 @@ const artifacts_toml = abspath(joinpath(@__DIR__, "..", "Artifacts.toml"))
 export testdata
 
 const remotefiles = [
-    "s1_jurua_lake.shp"
+    "s1_jurua_singlelake_large.nc",
+    "s1_jurua_singlelake_select.cpg",
+    "s1_jurua_singlelake_select.dbf",
+    "s1_jurua_singlelake_select.prj",
+    "s1_jurua_singlelake_select.qpj",
+    "s1_jurua_singlelake_select.shp",
+    "s1_jurua_singlelake_select.shx"
 ]
 
 """
