@@ -22,7 +22,7 @@ end
 # Check the names in images/metadata.toml
 metadata = TOML.parsefile(joinpath("images","metadata.toml"))
 names_meta = [img["name"] for img in metadata["images"]]
-names_dir = [splitext(file)[1] for file in readdir("images")]
+names_dir = readdir("images")
 @assert names_meta ⊆ names_dir
 
 # Generate hashes
