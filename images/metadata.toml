@@ -13,36 +13,36 @@
 # none of these fields is required.
 
 [[images]]
-name = "images/s1_jurua_singlelake_large.nc"
+name = "s1_jurua_singlelake_large.nc"
 fullname = "Sentinel-1 data subset Jurua Lake"
 author = "Felix Cremer"
 
 [[images]]
-name = "images/s1_jurua_singlelake_select.cpg"
+name = "s1_jurua_singlelake_select.cpg"
 fullname = "Sentinel-1 data subset Jurua Lake Shapefile"
 author = "Felix Cremer"
 
 [[images]]
-name = "images/s1_jurua_singlelake_select.dbf"
+name = "s1_jurua_singlelake_select.dbf"
 fullname = "Sentinel-1 data subset Jurua Lake Shapefile"
 author = "Felix Cremer"
 
 [[images]]
-name = "images/s1_jurua_singlelake_select.prj"
+name = "s1_jurua_singlelake_select.prj"
 fullname = "Sentinel-1 data subset Jurua Lake Shapefile"
 author = "Felix Cremer"
 
 [[images]]
-name = "images/s1_jurua_singlelake_select.qpj"
+name = "s1_jurua_singlelake_select.qpj"
 fullname = "Sentinel-1 data subset Jurua Lake Shapefile"
 author = "Felix Cremer"
 
 [[images]]
-name = "images/s1_jurua_singlelake_select.shp"
+name = "s1_jurua_singlelake_select.shp"
 fullname = "Sentinel-1 data subset Jurua Lake Shapefile"
 author = "Felix Cremer"
 
 [[images]]
-name = "images/s1_jurua_singlelake_select.shx"
+name = "s1_jurua_singlelake_select.shx"
 fullname = "Sentinel-1 data subset Jurua Lake Shapefile"
 author = "Felix Cremer"
