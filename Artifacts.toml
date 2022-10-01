@@ -1,7 +1,7 @@
 [images]
-git-tree-sha1 = "27a4c26bcdd47eb717bee089ec231a899cb8ef69"
+git-tree-sha1 = "7197561bb1258e552d2f03c6425362e4a42c8da0"
 lazy = true
 
     [[images.download]]
-    sha256 = "90834d5320612a1e84b4dd5d3809c5a77fb146c371dcd270bdd474395eddf74a"
-    url = "https://github.com/felixcremer/SpatialTestData.jl/releases/download/v0.0.1-artifacts/images.tar.gz"
+   sha256 = "7d1bdd3537f6697d8988fc37efba5c521a04633ba82b4636869df82671f18527"
+   url = "https://github.com/felixcremer/SpatialTestData.jl/releases/download/v0.0.1-artifacts/images.tar.gz"
