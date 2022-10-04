@@ -15,10 +15,10 @@ Full documentation and description of the datasets available in SpatialTestData.
 
 ## Installation
 
-Just like all normal Julia packages, you can use Pkg to install it:
+Just like all unregistered Julia packages, you can use Pkg to install it:
 
 ```julia
-pkg> add SpatialTestData # hit ] to enter Pkg mode
+pkg> add https://github.com/felixcremer/SpatialTestData.jl # hit ] to enter Pkg mode
 ```
 
 ## Usage

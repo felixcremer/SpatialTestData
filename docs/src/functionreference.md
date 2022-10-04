@@ -3,14 +3,12 @@
 ## Image loaders
 
 ```@docs
-testimage
-testimage_dip3e
-TestImages.shepp_logan
+testdata
 ```
 
 
 ## Helpers
 
 ```@docs
-TestImages.full_imagename
+SpatialTestData.full_imagename
 ```
